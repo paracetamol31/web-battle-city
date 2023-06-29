@@ -1,1 +1,1 @@
-# webpack-project-template
+# web-battle-city
